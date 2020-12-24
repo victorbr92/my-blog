@@ -3,9 +3,11 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+I'm Victor, here is my [LinkedIn](https://www.linkedin.com/in/victorbouzas/).
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I'm a Heuristics Supervisor, also known as Machine Learning Engineer & Data Scientist.
+I'm 70% Brazilian, 20% Spanish and 10% Portuguese. 
+Also, I'm a casual runner and jiu-jitsu purple belt.
 
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+![profile_picture](https://avatars3.githubusercontent.com/u/31823092 = 250x)
