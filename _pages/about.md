@@ -10,4 +10,6 @@ I'm 70% Brazilian, 20% Spanish and 10% Portuguese.
 Also, I'm a casual runner and jiu-jitsu purple belt.
 
 
-![profile_picture](https://avatars3.githubusercontent.com/u/31823092 = 250x)
+![profile_picture](../images/picture.jpeg)
+
+My CV is provided below in Markdown, but you can also download the pdf version [here]()
