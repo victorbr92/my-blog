@@ -478,13 +478,13 @@ pre code { font-size: 15px !important; }
 
 p code { font-size: 19px; }
 
-html, body, input, textarea, select, button { color: rgba(255, 255, 255, 0.87) !important; background-color: #181818 !important; }
+html, body, input, textarea, select, button { color: rgba(242, 241, 239, 0.87) !important; background-color: #181818 !important; }
 
 a { color: #4bbaff !important; }
 
-a:hover { color: rgba(255, 255, 255, 0.87) !important; }
+a:hover { color: rgba(242, 241, 239, 0.87) !important; }
 
-.site-title, .site-title:visited, .site-nav, .page-link { color: rgba(255, 255, 255, 0.87) !important; }
+.site-title, .site-title:visited, .site-nav, .page-link { color: rgba(242, 241, 239, 0.87) !important; }
 
 .site-nav { background-color: #181818; border-color: #383838; }
 
@@ -492,19 +492,19 @@ a:hover { color: rgba(255, 255, 255, 0.87) !important; }
 
 pre, code { border-color: #383838; background-color: #242424; }
 
-.page-description { color: rgba(255, 255, 255, 0.69); }
+.page-description { color: rgba(242, 241, 239, 0.69); }
 
-.post-meta { color: rgba(255, 255, 255, 0.38); }
+.post-meta { color: rgba(242, 241, 239, 0.38); }
 
-.post-content p, .post-content li { color: rgba(255, 255, 255, 0.69); }
+.post-content p, .post-content li { color: rgba(242, 241, 239, 0.69); }
 
-.btn { background-color: #242424 !important; color: rgba(255, 255, 255, 0.87) !important; border-color: #383838 !important; }
+.btn { background-color: #242424 !important; color: rgba(242, 241, 239, 0.87) !important; border-color: #383838 !important; }
 
 .btn:hover { background-color: #181818 !important; }
 
-table th { background-color: #242424; border-color: #383838; color: rgba(255, 255, 255, 0.87); }
+table th { background-color: #242424; border-color: #383838; color: rgba(242, 241, 239, 0.87); }
 
-table td { background-color: #181818; border-color: #383838; color: rgba(255, 255, 255, 0.69); }
+table td { background-color: #181818; border-color: #383838; color: rgba(242, 241, 239, 0.69); }
 
 .flash { color: #181818 !important; filter: brightness(80%); }
 
