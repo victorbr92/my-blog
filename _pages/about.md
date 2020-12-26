@@ -3,13 +3,22 @@ layout: page
 title: About Me
 permalink: /about/
 ---
-I'm Victor, here is my [LinkedIn](https://www.linkedin.com/in/victorbouzas/).
+<img src="../images/banner.jpg">
 
-I'm a Heuristics Supervisor, also known as Machine Learning Engineer & Data Scientist.
-I'm 70% Brazilian, 20% Spanish and 10% Portuguese. 
-Also, I'm a casual runner and jiu-jitsu purple belt.
+<img style="float: right;margin-left:30px" src="../images/profile.jpeg" height="300px"> 
 
+I'm Victor! 
 
-![profile_picture](../images/picture.jpeg)
+I'm a Data Scientist/Machine Learning Engineer, but I accept the title of Heuristics Supervisor as well.
 
-My CV is provided below in Markdown, but you can also download the pdf version [here]()
+I have masters in Industrial Engineering and already worked on many different domains, from laundry powder design, thermodynamic modelling of heavy oils and also real estate machine learning systems.
+
+I spent the last years working on a real estate metasearch startup and study diverse machine learning topics, such as NLP for Information Retrieval and Computer Vision for Similarity Search.
+
+During my career, besides data science skills, I developed solid software engineering skills and learned good development practices. 
+Also, I had the opportunity to work also as technical leader, managing some projects and leading a team.
+
+I'm half Brazilian and half Spanish, a casual runner and also Jiu-Jitsu purple belt (well, before COVID-19).
+Besides that, I really love what I do and I also use my spare time to expand my knowledge reading papers and exploring new subjects, which I plan to share here in this blog.
+
+You can check my CV [here](../assets/resume_victor_bouzas.pdf) or check my [LinkedIn](https://www.linkedin.com/in/victorbouzas/).
