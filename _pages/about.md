@@ -19,6 +19,6 @@ During my career, besides data science skills, I developed solid software engine
 Also, I had the opportunity to work also as technical leader, managing some projects and leading a team.
 
 I'm half Brazilian and half Spanish, a casual runner and also Jiu-Jitsu purple belt (well, before COVID-19).
-Besides that, I really love what I do and I also use my spare time to expand my knowledge reading papers and exploring new subjects, which I plan to share here in this blog.
+Besides that, I really love what I do and I also use my spare time to expand my knowledge readingapers and exploring new subjects, which I plan to share here in this blog.
 
 You can check my CV [here](../assets/resume_victor_bouzas.pdf) or check my [LinkedIn](https://www.linkedin.com/in/victorbouzas/).
