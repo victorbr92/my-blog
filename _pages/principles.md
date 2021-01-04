@@ -14,7 +14,8 @@ This page is always on construction.
 - Discovering what you don't want is easier than trying to know exactly what you want.
 - The journey is more important than the end goal. However, don't get lost in tools and side quests, have the final goal in mind always.
 - Deep focus (being in the zone) it is a huge source of happiness.
-- Happiness does not exist in vacuum, it is only real when shared with people that are important to you.
+- Happiness does not exist in the vacuum, it is only real when shared with people that are important to you.
+- When in doubt (do not understand something), go closer (start with small pieces).
 
 ## Focus and Procrastination
 
@@ -63,9 +64,58 @@ A lack of focus can be seen also in procrastination. Some reasons are:
 
 ## Learning
 
+Start by thinking about what you know and the question yourself before studying. \
+Reevaluate your knowledge frequently, as understanding is not a binary “yes/no”. It has layers of depth. \
+Confusion precedes learning, in case of it: 
+- Clarify which part is confusing for you;
+- Turn that into some concrete questions;
+- Research on how to answer that question.
+
+To feel that you really know a subject you must be willing to play the devil's advocate with yourself and be better
+on it than the others. You must prove your knowledge and subject it to all the tests your mind can think of. \
+You must be able to argue against yourself better than others can.
+
+There are some essential virtues to be an effective learner:
+- **Energy**: To learn you should train your attention and be able to maintain high levels of energy and focus for long periods of time.
+- **Motivation**: Inner drive for knowledge.
+- **Passion**: Motivation without passion is temporary.
+- **Integrity**: Do not lie to yourself if you don't understand something. It’s harder to lie when you have to write about it. Writing forces clarity.
+- **Skepticism**: Always test your assumptions.
+- **Humility**: Being unafraid to look stupid. Beginner mindset.
+
+> Most of the stereotypical photographs of scientists studying rows of equations written on 
+> blackboards are instructors explaining discoveries already made. Real progress comes in 
+> the field writing notes, at the office amid a litter of doodle paper, in the corridor 
+> struggling to explain something to a friend, at lunchtime, eating alone, or in a garden 
+> while walking. To have a eureka moment requires hard work. And focus.
+> 
+> (...) Daydream a lot. Make talking to yourself silently a relaxing pastime. 
+> Give lectures to yourself about important topics you need to understand. 
+> Talk with others of like mind. (...)
+> The ideal scientist thinks like a poet and only later works as a bookkeeper.
+> 
+> (...) To make important discoveries anywhere in science, it is necessary not only to acquire a broad 
+> knowledge of the subject that interests you, but also the ability to spot blank spaces in that knowledge. 
+> Deep ignorance, when properly handled, is also a superb opportunity…To search for unasked questions, 
+> plus questions to put to already acquired but unsought answers, it is vital to give full play to the imagination. 
+> That is the way to create truly original science.
+> 
+> **E.O. Wilson**, Letters to a Young Scientist
+
+**Resources**
+- [How to become a good scientist](https://fs.blog/2015/12/e-o-wilson-how-science-works/)
+- [Do the work](https://fs.blog/2013/04/the-work-required-to-have-an-opinion/)
+- [Circle of Competence](https://fs.blog/2013/12/circle-of-competence/)
+- [Understanding](https://nabeelqu.co/understanding)
+- [Learning skills](https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/)
+
 ## Management and Teamwork
+
+## Stoicism
 
 ## Random Quotes:
 
 > "Your twenties are always an apprenticeship, but you don't always know what for." 
 > Jan Houtema
+
+
