@@ -113,7 +113,7 @@ There are some essential virtues to be an effective learner:
 
 > "Your twenties are always an apprenticeship, but you don't always know what for." 
 > Jan Houtema
-> 
+
 > "The key to getting people to respond is asking interesting questions and the best way to ask interesting questions is to have a good high level overview of a field and the best way to do that is to write a blogpost or make a video about the topic."
 > Mark Saroufim
 
