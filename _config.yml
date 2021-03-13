@@ -1,5 +1,5 @@
 title: Random Noise
-description: Dropping my thoughts and sharing interesting findings. This site is built with fastpages.
+description: Organizing my thoughts and sharing interesting findings with the world. Learning in public. ~This site is built with fastpages~
 github_username: victorbr92
 # you can comment the below line out if your repo name is not different than your baseurl
 #github_repo: "my-blog"
@@ -43,7 +43,7 @@ show_description: true
 # Set this to true to display image previews on home page, if they exist
 show_image: false
 
-  # Set this to true to turn on annotations with hypothes.is (https://web.hypothes.is/)
+# Set this to true to turn on annotations with hypothes.is (https://web.hypothes.is/)
 annotations: false
 
 # Set this to true to display tags on each post
@@ -69,7 +69,7 @@ default_badges:
 
 # Escape HTML in post descriptions
 html_escape:
-  description: false
+  description: true
 
 # Everything below here should be left alone. Modifications may break fastpages
 future: true
