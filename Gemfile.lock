@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (6.0.3.3)
+    activesupport (6.0.6.1)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
@@ -17,7 +17,7 @@ GEM
       citeproc (~> 1.0, >= 1.0.9)
       csl (~> 1.5)
     colorator (1.1.0)
-    concurrent-ruby (1.1.7)
+    concurrent-ruby (1.2.0)
     csl (1.5.2)
       namae (~> 1.0)
     csl-styles (1.0.1.10)
@@ -36,7 +36,7 @@ GEM
       activesupport (>= 2)
       nokogiri (>= 1.4)
     http_parser.rb (0.6.0)
-    i18n (1.8.5)
+    i18n (1.12.0)
       concurrent-ruby (~> 1.0)
     jekyll (4.1.1)
       addressable (~> 2.4)
@@ -45,7 +45,7 @@ GEM
       i18n (~> 1.0)
       jekyll-sass-converter (~> 2.0)
       jekyll-watch (~> 2.0)
-      kramdown (~> 2.3.1)
+      kramdown (~> 2.1)
       kramdown-parser-gfm (~> 1.0)
       liquid (~> 4.0)
       mercenary (~> 0.4.0)
@@ -95,9 +95,9 @@ GEM
       rexml
     kramdown-math-katex (1.0.1)
       katex (~> 0.4)
-      kramdown (~> 2.3.1)
+      kramdown (~> 2.0)
     kramdown-parser-gfm (1.1.0)
-      kramdown (~> 2.3.1)
+      kramdown (~> 2.0)
     latex-decode (0.3.2)
     liquid (4.0.3)
     listen (3.2.1)
@@ -109,7 +109,7 @@ GEM
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
-    minitest (5.14.2)
+    minitest (5.17.0)
     multipart-post (2.1.1)
     namae (1.0.1)
     nokogiri (1.13.4)
@@ -145,7 +145,7 @@ GEM
       tzinfo (>= 1.0.0)
     unicode-display_width (1.7.0)
     wdm (0.1.1)
-    zeitwerk (2.4.0)
+    zeitwerk (2.6.6)
 
 PLATFORMS
   ruby
